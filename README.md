@@ -9,7 +9,6 @@
 - [Developer Documentation](#developer-documentation)
 - [Open Source](#open-source)
 - [AI-Powered Knowledge Management](#ai-powered-knowledge-management)
-- [Interactive Tools](#interactive-tools)
 - [Contributing](#contributing)
 
 ---
@@ -98,16 +97,12 @@
 
 ---
 
-## Interactive Tools
+## Further Reading
 
-*Tools to help you find, evaluate, and migrate your knowledge base platform.*
-
-| Tool | Description |
-|------|-------------|
-| [KB Platform Finder](https://findbestkb.com/en/finder/) | Answer questions about your use case (internal/external, team size, budget) and get matched platforms |
-| [KB Cost Calculator](https://findbestkb.com/en/calculator/) | Compare real all-in costs across top KB platforms for your exact team size |
-| [KB Migration Guide](https://findbestkb.com/en/migrate/) | Step-by-step playbook for migrating content between KB platforms without losing SEO or structure |
-| [KB Feature Comparison](https://findbestkb.com/en/features/) | Compare 30+ platforms across search quality, AI features, integrations, and multilingual support |
+- [KB Platform Finder](https://findbestkb.com/en/finder/) — answer questions about your use case and get matched platforms
+- [KB Cost Calculator](https://findbestkb.com/en/calculator/) — real all-in costs across KB platforms for your team size
+- [KB Migration Guide](https://findbestkb.com/en/migrate/) — content migration checklist without losing SEO or structure
+- [KB Feature Comparison](https://findbestkb.com/en/features/) — compare 30+ platforms across search, AI features, and integrations
 
 ---
 
